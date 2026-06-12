@@ -12,9 +12,6 @@ HELLO WORLD!!!<br> I’m  an AI/ML practitioner and web developer passionate abo
 ![](https://streak-stats.demolab.com/?user=Nirzarah&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nirzarah&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nirzarah&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Nirzarah&icon=0&color=0)](https://visitcount.itsvg.in)
 
